@@ -1,0 +1,6 @@
+﻿  Class.cpp
+  el juego lancha.cpp
+C:\Users\lfh26\OneDrive - Centre d'Estudis Monlau\Desktop\el juego lancha\el juego lancha.cpp(75,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  LINK : no se encontró C:\Users\lfh26\OneDrive - Centre d'Estudis Monlau\Desktop\el juego lancha\x64\Debug\el juego lancha.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  el juego lancha.vcxproj -> C:\Users\lfh26\OneDrive - Centre d'Estudis Monlau\Desktop\el juego lancha\x64\Debug\el juego lancha.exe
