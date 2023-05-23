@@ -1,0 +1,6 @@
+﻿  Character.cpp
+  Enemy.cpp
+  juego.cpp
+C:\Users\feihonglin\OneDrive - Centre d'Estudis Monlau\Desktop\juego de maze\juego\juego.cpp(30,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  juego.vcxproj -> C:\Users\feihonglin\OneDrive - Centre d'Estudis Monlau\Desktop\juego de maze\x64\Debug\juego.exe
